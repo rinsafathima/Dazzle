@@ -59,18 +59,18 @@ const NavBar = () => {
                             }
                             <List className="text-gray-950">
                                 <select className="border-none font-light text-base outline-none bg-transparent">
-                                    <option value="EN" selected>EN</option>
-                                    <option value="ITA">ITA</option>
-                                    <option value="FRA">FRA</option>
+                                    <option value="EN" selected>Qatar Airways</option>
+                                    <option value="ITA">Emirates</option>
+                                    <option value="FRA">Singapore Airlines</option>
                                 </select>
                             </List>
                         </ul>
                     </div>
                     <div className="lg:hidden flex gap-4 items-center">
                         <select className="border-none outline-none font-light text-sm bg-transparent">
-                            <option value="EN" selected>EN</option>
-                            <option value="ITA">ITA</option>
-                            <option value="FRA">FRA</option>
+                            <option value="EN" selected>Qatar Airways</option>
+                            <option value="ITA">Emirates</option>
+                            <option value="FRA">Singapore Airlines</option>
                         </select>
                         <div className="hamburger text-gray-950 cursor-pointer" onClick={handleToggle}>
                             <CirclesFour size={30} color="currentColor" weight="fill" />

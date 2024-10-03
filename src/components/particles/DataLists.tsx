@@ -32,33 +32,33 @@ export const NavButtons = [
 
 
 export const HeroTexts = {
-    firstText: "BEST DESITNATIONS AROUND THE WORLD",
-    secondText: "Travel, enjoy and live a new and full life.",
-    thirdText: "Built Wicket longer admire do barton vantity itself do in it. Preferred to sportsmen it engrossed listening. Park gate sell they west hard for the.",
-    firstButton: "Find out more",
-    secondButton: 'Play Demo'
+    firstText: "EXPLORE THE WORLD'S BEST DESTINATIONS",
+    secondText: "Adventure, relax, and live your best moments.",
+    thirdText: "Discover awe-inspiring places, thrilling experiences, and hidden gems. Your journey to unforgettable destinations starts here.",
+    firstButton: "Discover more",
+    secondButton: 'Watch'
 }
 
 
 export const ServiceTexts = {
     firstText: "CATEGORY",
-    secondText: "We Offer Best Services",
+    secondText: "We Provide Top-notch Travel Solutions",
     cards: [
         {
-            firstText: "Calculated Weather",
-            secondText: "Built Wicket longer admire do barton vantity itself do in it."
+            firstText: "Weather Insights",
+            secondText: "Accurate forecasts to help you plan the perfect trip in any season."
         },
         {
-            firstText: "Best Flight",
-            secondText: "engrossed listening. Park gate sell they west hard for the."
+            firstText: "Best Flights",
+            secondText: "We partner with top airlines to offer the best deals for your travels."
         },
         {
-            firstText: "Local Events",
-            secondText: "barton vantity itself do in it.Preferred to men it engrossed listening."
+            firstText: "Exciting Events",
+            secondText: "Stay updated with the most happening local events and experiences."
         },
         {
-            firstText: "Customizition",
-            secondText: "We deliver outsourced aviation services for military customers."
+            firstText: "Tailored Packages",
+            secondText: "Customized travel solutions that meet your preferences and budget."
         }
     ]
 }
@@ -68,34 +68,34 @@ export const TopDestinationTexts = {
     secondText: "Top Destinations",
     cards: [
         {
-            country: "Rome, Italy",
-            price: "5.42k",
+            country: "Santorini, Greece",
+            price: "7.8k",
             duration: "10 days trip"
         },
         {
-            country: "London, UK",
-            price: "4.2k",
+            country: "Kyoto, Japan",
+            price: "6.3k",
             duration: "12 days trip"
         },
         {
-            country: "Paris, France",
-            price: "15k",
-            duration: "26 days trip"
-        },
-        {
-            country: "New York, USA",
-            price: "4.5k",
-            duration: "8 days trip"
-        },
-        {
-            country: "Warsaw, Poland",
-            price: "3.9k",
+            country: "Bali, Indonesia",
+            price: "5.2k",
             duration: "14 days trip"
         },
         {
-            country: "Dubai, UAE",
-            price: "9.2k",
-            duration: "17 days trip"
+            country: "Queenstown, New Zealand",
+            price: "8.4k",
+            duration: "15 days trip"
+        },
+        {
+            country: "Maui, Hawaii",
+            price: "9.1k",
+            duration: "11 days trip"
+        },
+        {
+            country: "Amalfi Coast, Italy",
+            price: "10.5k",
+            duration: "13 days trip"
         },
     ]
 }
@@ -105,13 +105,13 @@ export const BookingStepsTexts = {
     secondText: "Book your next trip in 3 easy steps",
     listOfSteps: [
         {
-            text: "Choose Destination lorem ipsum dolor sit amet, consectetur adipiscing elit.Urna, tortor tempus."
+            text: "Choose Your Destination - browse a variety of places, from beaches to mountains."
         },
         {
-            text: "Make Payment lorem ipsum dolor sit amet, consectetur adipiscing elit.Uma, totor tempus."
+            text: "Secure Your Payment - quick, safe, and easy transactions for peace of mind."
         },
         {
-            text: "Reach Airport on Selected Date lorem ipsum dolor sit amet.consectetur adipiscing elit.Uma totor tempus."
+            text: "Fly to Your Adventure - get ready for your unforgettable experience on your selected date."
         }
     ],
     cardOne:
@@ -133,33 +133,34 @@ export const TestimonialTexts = {
     secondText: "What people say about Us.",
     feedBacks: [
         {
-            text: "You did a fabulous job. There were no hitches. Thank you again for all your work planning this trip.",
-            person: "Mike taylor",
-            location: "Lahore, Pakistan"
+            text: "The entire trip was seamless and well-organized. The destinations were perfect and the services were top-notch. Highly recommend!",
+            person: "Taylor",
+            location: "Toronto, Canada"
         },
         {
-            text: "Jadoo was great with the entire process from planning to updates during the trip. We had 11 people and everything was perfectly executed. We appreciate all of her hard work. It was truly the trip of a lifetime. Thank you!",
-            person: "Gina",
-            location: "Owerri, Nigeria"
+            text: "Booking with this company was the best decision! The entire experience was well-coordinated, and we had a great time. Thanks for making our trip special!",
+            person: "Billy",
+            location: "Sydney, Australia"
         },
         {
-            text: "Booking through you was very easy and made our lives so much easier. I have nothing bad to say! Thank you for giving us tips and guidance before we left on what to bring and such, that was very helpful!",
-            person: "Emma",
-            location: "Vancouver, Canada"
+            text: "The process was so smooth, and the trip was amazing. Everything was well planned, and we couldn't have asked for a better experience. Thank you!",
+            person: "Selena",
+            location: "New York, USA"
         },
         {
-            text: "Thank you for your recommendation and putting the trip together. The resort was absolutely beautiful. The infinity pools, the palm trees in the main pool, the infinity pool in out preferred area overlooking the gulf and the golf course were exceptional....",
-            person: "Loveth",
+            text: "The resort, the views, and the entire trip exceeded my expectations! Thank you for curating such a wonderful vacation experience.",
+            person: "Sia",
             location: "Lagos, Nigeria"
         },
     ],
 }
 
 export const NewsletterTexts = {
-    firstText: "Subscribe to get information, latest news and other interesting offers about Jadoo.",
-    placeholderText: "Your email",
+    firstText: "Subscribe to receive the latest travel news, exclusive offers, and travel inspiration.",
+    placeholderText: "Enter your email",
     buttonText: "Subscribe"
 }
+
 
 export const FooterTexts = {
     underLogoText: "Book your trip in minutes, get full control for much longer.",
